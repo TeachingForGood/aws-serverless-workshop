@@ -3,8 +3,10 @@ This is a fully hands-on workshop participants will build a scalable application
 
 ## New to Angular?
 If you are new to Angular or would like to refresh, this course by Dan Wahlin is a great resource.
+
 https://scrimba.com/g/gyourfirstangularapp
 
 ## AWS Amplify
 This video is a good introduction and demonstration of the AWS Amplify framework. 
+
 https://www.youtube.com/watch?v=6vFVyb2T3b4
